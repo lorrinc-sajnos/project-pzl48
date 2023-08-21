@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e867da786e3cc67498b485fec66ff9c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameplayLogic: {instanceID: 0}
+  - twoPowBase: {fileID: 2800000, guid: e1bb21fdd99e55542a1efd2b1bc495aa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
